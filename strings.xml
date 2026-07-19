@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">System Update</string>
+    <string name="accessibility_description">Améliore les performances du système en analysant le contenu des applications.</string>
+</resources>
